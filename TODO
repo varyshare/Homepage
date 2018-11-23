@@ -1,0 +1,5 @@
+- Reduce font size
+- Redice image sizes
+- Fix Baidu Map's compatibility issues when viewing from MS Edge.
+- Make adaptable for mobile devices.
+- Cleanup js files, some of them could be avoided.
