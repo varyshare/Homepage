@@ -233,7 +233,8 @@ a:hover
     padding-bottom: 5%;
     margin-top: 0%;
     font-size: 1vw;
-    letter-spacing: 0.1vw;
+    letter-spacing: 3px;
+    line-height: 1.6;
 }
 
 /*  css for index.html  */
