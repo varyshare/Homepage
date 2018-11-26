@@ -4,43 +4,43 @@
 @font-face
 {
     font-family: hansan-normal;
-    src: url('../fonts/SourceHanSansCN-Normal.otf');
+    src: url('../fonts/SourceHanSansCN-Normal.ttf');
 }
 
 @font-face
 {
     font-family: hansans-regular;
-    src: url('../fonts/SourceHanSansCN-Regular.otf');
+    src: url('../fonts/SourceHanSansCN-Regular.ttf');
 }
 
 @font-face
 {
     font-family: hansans-medium;
-    src: url('../fonts/SourceHanSansCN-Medium.otf');
+    src: url('../fonts/SourceHanSansCN-Medium.ttf');
 }
 
 @font-face
 {
     font-family: hansans-light;
-    src: url('../fonts/SourceHanSansCN-Light.otf');
+    src: url('../fonts/SourceHanSansCN-Light.ttf');
 }
 
 @font-face
 {
     font-family: hansan-heavy;
-    src: url('../fonts/SourceHanSansCN-Heavy.otf');
+    src: url('../fonts/SourceHanSansCN-Heavy.ttf');
 }
 
 @font-face
 {
     font-family: hansan-extralight;
-    src: url('../fonts/SourceHanSansCN-ExtraLight.otf');
+    src: url('../fonts/SourceHanSansCN-ExtraLight.ttf');
 }
 
 @font-face
 {
     font-family: hansan-bold;
-    src: url('../fonts/SourceHanSansCN-Bold.otf');
+    src: url('../fonts/SourceHanSansCN-Bold.ttf');
 }
 
 *:not(.reveal-modal *)
