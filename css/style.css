@@ -15,12 +15,6 @@
 
 @font-face
 {
-    font-family: hansans-medium;
-    src: url('../fonts/SourceHanSansCN-Medium.ttf');
-}
-
-@font-face
-{
     font-family: hansans-light;
     src: url('../fonts/SourceHanSansCN-Light.ttf');
 }
@@ -45,7 +39,7 @@
 
 *:not(.reveal-modal *)
 {
-    font-family: hansans-medium, sans-serif;
+    font-family: hansans-normal, sans-serif;
     padding: 0;
     margin: 0;
 }
