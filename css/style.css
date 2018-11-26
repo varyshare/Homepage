@@ -40,7 +40,7 @@
 @font-face
 {
     font-family: hansan-bold;
-    src: url('../fonts/SourceHanSansCN-bold.otf');
+    src: url('../fonts/SourceHanSansCN-Bold.otf');
 }
 
 *:not(.reveal-modal *)
