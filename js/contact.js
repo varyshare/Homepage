@@ -1,6 +1,7 @@
 (function ($) {
     var map = new window.BMap.Map("contact-map");    
-    var center = new window.BMap.Point(113.954900, 22.551000);
+    // var center = new window.BMap.Point(113.954900, 22.551000);
+    var center = new window.BMap.Point(113.952473, 22.553522);
 
     map.setCurrentCity("深圳");     
     map.enableScrollWheelZoom(true);
